@@ -1,0 +1,16 @@
+1.why do computers understand only binary language?
+Ans: Generally computer memory chips are made up with capacitors,capacitors can have only two states i.e charged or not-charged,because of this we assume the charged state to 1 and not-charged state to 0, Hence computers are work in binary only.
+2.what is the full form of IDE?
+Ans: Integrated Development Enviroment.
+3.what is the difference between a text editor and a code editor?
+Ans: Generally the main difference between a text editor and a code editor is the three main components are " preprocessor , compailer , linker .After this three components Debuger and color code design are making a code editor spcial from a text editor.
+4.what are the steps to develop software using the C language?
+Ans: In the first stage we have to write the C language code and save it with '.c ' extension file ,after this we have to compaile the .c extension file with the IDE ,(at the time of compailation  the statement lines started with '#' symbol are replaced with header content with the help of 'preprocessor' and make another file with .i extension and with same name), the compiler translate the .i extension file and create another .obj(object file)file ,and anothe software named Linker convert the .obj extension file  with the help of library files to .exe extension file or Executable file ,which is readable by the machine or the OS.
+5.What is the latest version of the C language ?
+Ans: c23(date:01-04-2023)
+6.who developed c language?
+Ans: Dennis Ritchie
+7.what is the difference between System and Application Software?
+Ans: System Software are used to operate the hardware of the computer and application software are installed by the users application.
+8.How to convert a number from a decimal number system to binary number system?
+Ans: by deviding the decimal number with 2 and keeping the remainder in a array we can get the binary of a decimal number.
