@@ -1,0 +1,20 @@
+1.What are the primitive data types in C Language ?
+Ans: int ,char ,float,double,void
+2.what kind of statements can be written outside the function body ?
+Ans: Declaration statements
+3.What is the size of the float type variable ?
+Ans: 4bytes
+4.What is the value of an uninitialized variable?
+Ans: Garbage
+5.What is the difference between float and double ?
+Ans: float keyword create 4byte variable ,where the double keyword creates 8 bytes of memory variable .
+6.What is the full form of ASCII?
+Ans: American Standard code for information interchange
+7.what is the difference between a keyword and a function?
+Ans: The defination of the keyword is defined in the compiler and the meaning of the keyword is alrady known by the compiler, and Block of statements which has an name for identification is called a function .
+8.Explore the use of type modifiers in C language.
+ Ans:
+9.Can you assign a character constant in an int variable?
+Ans:yes
+10.State the following statement as true or false -"Every block of code is a function"?
+Ans:false(Block of code with specific name ,which can be called )
